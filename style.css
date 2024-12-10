@@ -26,7 +26,7 @@ article {
 .img {
   display: flex;
   justify-content: center;
-  width: 100%; /* image container uses full width*/
+  width: 100%;
 }
 
 img {
