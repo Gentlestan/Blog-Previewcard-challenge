@@ -8,7 +8,7 @@ body {
   margin: 0;
 }
 
-main {
+article {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -22,6 +22,7 @@ main {
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
 .img {
   display: flex;
   justify-content: center;
@@ -33,7 +34,7 @@ img {
   width: 100%;
   max-width: 348px;
 }
-.article-header {
+header {
   text-align: left;
   width: 100%;
   margin-top: 12px;
@@ -49,12 +50,12 @@ img {
   height: 25px;
 }
 
-.footer-section,
+footer,
 h1,
 h4 {
   color: #111111;
 }
-.footer-section {
+footer {
   display: flex;
   justify-content: flex-start;
   align-items: center;
