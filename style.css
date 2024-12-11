@@ -70,6 +70,10 @@ footer {
 }
 
 @media screen and (max-width: 480px) {
+  main {
+    display: flex;
+    justify-content: center;
+  }
   article {
     width: 80%;
   }
